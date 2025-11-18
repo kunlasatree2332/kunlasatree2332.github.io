@@ -1,7 +1,5 @@
 ---
 title: "Probability Distribution graph for static modeling
-Public
-"
 excerpt: "graphimage.png"
 collection: portfolio
 ---
