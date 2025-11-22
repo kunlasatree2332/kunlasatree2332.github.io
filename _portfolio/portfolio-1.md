@@ -1,9 +1,10 @@
 ---
-title: "Probability Distribution graph for static modeling
-excerpt: "graphimage.png"
+title: "Probability Distribution graph for static modeling"
+excerpt: "graph for static modeling"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img width="995" height="793" alt="image" src="https://github.com/user-attachments/assets/2697a623-5841-4e5a-96e0-00cf2a6282b6" />
+
 
 ---
