@@ -8,5 +8,6 @@ Static modeling is the process of building a 3D reservoir model. In contrast, pr
 
 When we calculate volumetrics using a probabilistic approach, we obtain many possible volume values. By plotting these results on a probability distribution graph, we can identify representative values for each probability level, such as P10, P50, and P90.
 
+<img width="974" height="605" alt="image" src="https://github.com/user-attachments/assets/2ff3db10-06b7-4337-83ca-64709a9a7044" />
 
 ---
