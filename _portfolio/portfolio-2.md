@@ -1,6 +1,7 @@
 ---
 title: "Python coarse"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: '<img width="918" height="574" alt="image" src="https://github.com/user-attachments/assets/c6bcdc57-d691-4e1d-a889-e29d3b74eba6" />'
+
 collection: portfolio
 ---
 
