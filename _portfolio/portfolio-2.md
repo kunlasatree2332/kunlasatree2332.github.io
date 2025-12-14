@@ -5,4 +5,4 @@ excerpt: '<img width="918" height="574" alt="image" src="https://github.com/user
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Kaggle Python course, I gained hands-on experience with core Python programming concepts used in data science. I learned how to work with variables, numbers, strings, lists, and dictionaries, write and use functions, apply boolean logic and conditional statements, and debug code using Python’s built-in help tools. This course strengthened my problem-solving skills and prepared me for more advanced topics such as Pandas, machine learning, and data analysis.
